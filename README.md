@@ -1,5 +1,5 @@
 # Table Tennis Score Keeper
-A score-keeper page for table tennis. 
+A scorekeeping page for table tennis.
 
 - HTML5
 - Bulma (*CSS framework*)
